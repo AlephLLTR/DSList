@@ -48,3 +48,8 @@ buildNumber.properties
 .project
 # JDT-specific (Eclipse Java Development Tools)
 .classpath
+
+
+#Outros
+docker-compose.yml
+.data
