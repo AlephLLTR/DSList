@@ -4,11 +4,6 @@ import org.springframework.beans.BeanUtils;
 
 import com.luccaltr.dslist.entities.Game;
 
-import jakarta.persistence.Column;
-import jakarta.persistence.GeneratedValue;
-import jakarta.persistence.GenerationType;
-import jakarta.persistence.Id;
-
 public class GameDTO {
 
     private Long id;
